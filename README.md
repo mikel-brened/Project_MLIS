@@ -76,3 +76,21 @@ Berdasarkan uji coba sistem pada CPU laptop standar, didapatkan metrik kinerja b
 * **MediaPipe Hands:** Zhang, F., dkk. (2020). *MediaPipe Hands: On-device Real-time Hand Tracking*. Google Research.
 * **Pygame:** Pygame Community. *Pygame Documentation*.
 * **OpenCV:** Bradski, G. (2000). *The OpenCV Library*.
+
+---
+
+## 🤝 Kontribusi
+
+Proyek ini bersifat terbuka untuk pengembangan lebih lanjut. Jika Anda ingin berkontribusi, silakan ikuti langkah-langkah berikut:
+
+1. **Fork** repositori ini.
+2. Buat branch fitur baru (`git checkout -b fitur-baru`).
+3. Lakukan perubahan dan **Commit** perubahan Anda (`git commit -m 'Menambahkan fitur baru yang keren'`).
+4. **Push** ke branch tersebut (`git push origin fitur-baru`).
+5. Buat **Pull Request** baru di halaman GitHub ini.
+
+---
+
+## 📄 Lisensi
+
+Proyek ini dilesensikan untuk project UAS matakuliah MLIS
