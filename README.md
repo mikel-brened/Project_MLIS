@@ -42,9 +42,7 @@ Kamu bisa menjalankan aplikasi ini melalui kode sumber (**Developer Mode**).
 * Memiliki Webcam yang aktif.
 
 **Langkah-langkah:**
-1. Clone repositori ini ke komputer lokal:
-   git clone https://github.com/OW3N746/FinalProject_MLIS.git
-   cd FinalProject_MLIS
+1. Clone repositori ke komputer lokal
 2. Instal semua pustaka Python yang dibutuhkan lewat `requirements.txt`:
    pip install -r requirements.txt
 3. Jalankan program utama game:
