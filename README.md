@@ -1,4 +1,4 @@
-# HeuriNot: Solfège Ear Trainer v3.0 🎹🤖
+# HeuriNot: Solfège Ear Trainer 🎹🤖
 
 [![Python Version](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/framework-Pygame-orange.svg)](https://www.pygame.org)
